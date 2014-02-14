@@ -3,4 +3,4 @@ restful-service-fixture
 
 restful-service-fixture
 
-This is a test
+This fixture is handy for testing restfull service calls
